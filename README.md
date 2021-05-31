@@ -1,6 +1,6 @@
 # Employee-Managment
 
-This SpringMVC Web Application (Maven) allows the user to manage their employees through the user of CRUD operations performed on a Database (MySQL):
+This SpringMVC Web Application (Maven) allows the user to manage their employees through the use of CRUD operations performed on a Database (MySQL):
 
 -CREATE: User can add an Employee to the list to be displayed on the View.
 
