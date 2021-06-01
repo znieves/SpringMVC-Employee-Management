@@ -21,4 +21,4 @@ This SpringMVC Web Application (Maven) allows the user to manage their employees
 
 
 
-*IMPORTANT - app.config file has been omitted in order to protect sensitive data (Database Connection Details).
+*IMPORTANT - application.properties file has been omitted in order to protect sensitive data (Database Connection Details).
